@@ -42,10 +42,10 @@ const aiman = {
 
 Here are some of my notable projects:
 
-- [ssdmV2](https://github.com/aiman-piixel/ssdmV2): A web application built with Flask and MySQL. It is used within my company for data management and analysis. ⭐️ 1
-- [SSDM-Sync-Tools](https://github.com/aiman-piixel/SSDM-Sync-Tools): A set of tools for synchronizing data across different platforms. Currently in development.
+- [ssdmV2](https://github.com/aiman-piixel/ssdmV2): An automated chrome browser script. ⭐️ 1
+- [SSDM-Sync-Tools](https://github.com/aiman-piixel/SSDM-Sync-Tools): Predecesssor to [ssdmV2](https://github.com/aiman-piixel/ssdmV2).
 
-**Note:** These are just a few of my projects. You can explore more on my [GitHub profile](https://github.com/aiman-piixel).
+You can explore more on my [GitHub profile](https://github.com/aiman-piixel).
 
 ## 👨‍💻 Coding Habits
 
