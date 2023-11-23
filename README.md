@@ -45,7 +45,7 @@ Here are some of my notable projects:
 - [ssdmV2](https://github.com/aiman-piixel/ssdmV2): An automated chrome browser script. ⭐️ 1
 - [SSDM-Sync-Tools](https://github.com/aiman-piixel/SSDM-Sync-Tools): Predecesssor to [ssdmV2](https://github.com/aiman-piixel/ssdmV2).
 
-You can explore more on my [GitHub profile](https://github.com/aiman-piixel).
+You can explore more on my [GitHub profile](https://github.com/aiman-piixel?tab=repositories).
 
 ## 👨‍💻 Coding Habits
 
