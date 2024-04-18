@@ -16,11 +16,11 @@ I am a software and web developer based in Malaysia. I have a diverse skill set 
 ```javascript
 const aiman = {
   pronouns: "He" | "Him",
-  code: ["Python", "Jupyter Notebook", "CSS", "JavaScript", "SCSS", "HTML", "PHP"],
+  code: ["Python", "CSS", "JavaScript", "HTML", "PHP", "Laravel"],
   askMeAbout: ["web development", "data analysis", "infrastructure programming"],
   technologies: {
     backEnd: {
-      language: ["Python", "PHP", "HTML"],
+      language: ["Python", "PHP", "HTML", "Node.JS"],
     },
     frontEnd: {
       css: ["Bootstrap", "Tailwind CSS"],
